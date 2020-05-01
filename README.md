@@ -1,0 +1,2 @@
+# Face-Recognition-on-ORL-Dataset
+I am using LDA (Linear discriminant analysis) and PCA  The size of each image in this dateset is 92x112 pixels, with 256 grey levels per pixel. The images are organised in 40 directories (one for each subject), which have names of the form sX, where X indicates the subject number (between 1 and 40). In each of these directories, there are ten different images of that subject, which have names of the form Y.pgm, where Y is the image number for that subject (between 1 and 10).
